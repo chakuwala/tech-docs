@@ -1,4 +1,4 @@
 # tech-docs
 
 ## ER Diagram
-![alternative text](http://www.plantuml.com/plantuml/proxy?cache=no&src=./diagrams/er_diagram.puml)
+![cached image](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/chakuwala/diagrams/er_diagram.puml)
